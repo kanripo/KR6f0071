@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說觀無量壽佛經
+#+DATE: 2015-08-30 20:02:21.786902
+#+PROPERTY: JUAN 0
